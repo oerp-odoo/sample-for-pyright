@@ -1,0 +1,13 @@
+{
+    "include": [
+        "src/odoo",
+    ],
+    "pythonPlatform": "Linux",
+    "executionEnvironments": [
+        {
+            "root": "code"
+        }
+    ],
+    "typeCheckingMode": "off",
+    "pythonVersion": "3.9"
+}

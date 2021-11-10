@@ -1,0 +1,3 @@
+[submodule "src/odoo"]
+	path = src/odoo
+	url = git@github.com:focusate/odoo.git
